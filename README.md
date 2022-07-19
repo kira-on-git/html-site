@@ -2,9 +2,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>Простая HTML-страница.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p>посмотреть код, нажмите ctrl + U</p>
-посмотреть код, нажмите ctrl + U
+<p>Посмотреть код: ctrl + U</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>Работает при перезагрузке.</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>https://kira-on-git.github.io/html-site/</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
